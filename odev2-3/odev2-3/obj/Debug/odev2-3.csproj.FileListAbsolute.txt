@@ -1,0 +1,10 @@
+C:\Users\Halil\Desktop\Dersler 201\odev2-3\odev2-3\bin\Debug\odev2-3.exe.config
+C:\Users\Halil\Desktop\Dersler 201\odev2-3\odev2-3\bin\Debug\odev2-3.exe
+C:\Users\Halil\Desktop\Dersler 201\odev2-3\odev2-3\bin\Debug\odev2-3.pdb
+C:\Users\Halil\Desktop\Dersler 201\odev2-3\odev2-3\obj\Debug\odev2-3.csproj.AssemblyReference.cache
+C:\Users\Halil\Desktop\Dersler 201\odev2-3\odev2-3\obj\Debug\odev2_3.Form1.resources
+C:\Users\Halil\Desktop\Dersler 201\odev2-3\odev2-3\obj\Debug\odev2_3.Properties.Resources.resources
+C:\Users\Halil\Desktop\Dersler 201\odev2-3\odev2-3\obj\Debug\odev2-3.csproj.GenerateResource.cache
+C:\Users\Halil\Desktop\Dersler 201\odev2-3\odev2-3\obj\Debug\odev2-3.csproj.CoreCompileInputs.cache
+C:\Users\Halil\Desktop\Dersler 201\odev2-3\odev2-3\obj\Debug\odev2-3.exe
+C:\Users\Halil\Desktop\Dersler 201\odev2-3\odev2-3\obj\Debug\odev2-3.pdb
